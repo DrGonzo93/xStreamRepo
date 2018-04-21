@@ -1,3 +1,15 @@
+ xStream 3.4.8
+ 
+ - [streamit.ws] fix Seite
+ - [Kinox.one] Seite hinzugefügt
+ - [Movies.gg] Seite hinzugefügt
+ - [Foxx.to] Fix Hoster
+ - [TMovie.to] Seite hinzugefügt
+ - [HD-Streams_org] Fix Hoster
+ - Cinenator entfernt (Seite offline)
+ - [Onlinefilme] Fix Hoster
+- Update cCFScrape.py
+
 xStream 3.4.7
 - [Streamdream.ws] Fix Serien [tnx koditorsten] 
 - [Kinostern] Seite hinzugefügt

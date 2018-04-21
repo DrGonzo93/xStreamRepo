@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-<addon id="plugin.video.xstream" name="xStream" version="3.4.7" provider-name="xStream-Team">
+<addon id="plugin.video.xstream" name="xStream" version="3.4.8" provider-name="xStream-Team">
  <requires>
    <import addon="xbmc.python"                 version="2.14.0"/>
    <import addon="repository.xstream"          version="1.1.1" />
@@ -23,15 +23,17 @@
    <license>GNU GPLv3</license>
    <platform>all</platform>
    <news>
-   xStream 3.4.7
+   xStream 3.4.8
 
-- Streamdream.ws Fix Serien (tnx koditorsten])
-- Add Kinostern
-- Watchbox.de, Code optimiert, Add Fanart, Seitenname angepasst und Globale Suche deaktiviert (default)
-- Add Watchbox.to 
-- Add Kinoger.com 
-- Add Cinematrix.to
-- Add moviex.co
+- Fix [streamit.ws] 
+- Add [Kinox.one]
+- Add [Movies.gg] 
+- [Foxx.to] Fix Hoster
+- Add [TMovie.to] 
+- [HD-Streams_org] Fix Hoster
+- Cinenator entfernt (Seite offline)
+- [Onlinefilme] Fix Hoster
+- Update cCFScrape.py
    </news>
    <assets>
      <icon>icon.png</icon>
@@ -75,8 +77,8 @@
         <disclaimer lang="de">Die dargestellten Inhalte des in diesem Verzeichnis enthaltenen Addons werden von den Erstellern des Addons weder gehostet oder verbreitet, noch stehen die Ersteller in irgendeiner Beziehung zu den Content-Anbietern.</disclaimer>
         <description lang="en">Download and install xStream from the Official xStream Addon-Repository.[CR]Before a new version of xStream is provided to this repository the addon was checked for functionality. Please informs the official xStream-Team if you should have problems anyway.</description>
         <disclaimer lang="en">The creators of the addon in this repository do not host or distribute any of the content displayed by the addon nor do they have any affiliation with the content providers.</disclaimer>
-        <forum>http://xstream-addon.square7.ch</forum>
-        <website>https://xstream-kodi.github.io</website>
+        <forum>http://lastship.square7.ch/forum/</forum>
+        <website>http://lastship.square7.ch/</website>
         <platform>all</platform>
     </extension>
 </addon>
