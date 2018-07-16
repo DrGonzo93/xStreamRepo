@@ -1,5 +1,27 @@
- xStream 3.4.8
+xStream 3.4.9
+   16.07.2018
+ - [Filmmerstube] Fix Next page
+ - Add [HDKino]
+ - Add [Cinemaxx_cc] 
+ - Fix foxx
+ - kinodogs.to entfernt (Seite offline)
+ - seriesever.net entfernt (Seite offline)
+ - tmovie.to entfernt (Seite offline)
+ - foxx.to (Anpassung in der Bildanzeige und die Hosterermittlung wurde gefixt)
+ - [serienstream.to] Fix Suche tnx sP4rK
+ - [bs.to] entfernt API KEY funktioniert nicht mehr
+ - {xStream.py] code cleanup
+ - [serienstream.to] fix hoster und code cleanup
+ - Update CFScraper
+ - [watchbox.to] fix
+ - [movie4k] dirty fast fix
+ - [Foxx] Fix
+ - [moviex.co] entfernt seite aufgegeben ersetzt durch Movies.gg
+ - [cine.to] entfernt benutzt recaptcha
  
+ 
+ xStream 3.4.8
+   21.04.2018
  - [streamit.ws] fix Seite
  - [Kinox.one] Seite hinzugefügt
  - [Movies.gg] Seite hinzugefügt
@@ -11,6 +33,7 @@
 - Update cCFScrape.py
 
 xStream 3.4.7
+   03.03.2018
 - [Streamdream.ws] Fix Serien [tnx koditorsten] 
 - [Kinostern] Seite hinzugefügt
 - [Watchbox.de] Optimize code, Add Fanart, Seitenname angepasst & Globale Suche standartmäßig deaktiviert
