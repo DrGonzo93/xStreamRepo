@@ -1,3 +1,16 @@
+xStream 3.5.4
+  02.01.2019
+- [SerienStream] Add Popular and code cleanup
+- [kino.cx] fix Hoster
+- [autoupdate] Android K18 ZIP Fix
+- [HDfilme] fix Hoster
+- [Foxx.to] Fix Hoster
+- [cinemaxx.cc] fix episodes usw.
+- [onlinefilme.to] Add Search filter and Description and code cleanup
+- [dokustream.org] code cleanup
+- [cinematrix.to] add Description and code cleanup
+- [kinostern] code cleanup
+
 xStream 3.5.3
    10.12.2018
 - [movie2k.sh] code cleanup
