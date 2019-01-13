@@ -1,3 +1,13 @@
+xStream 3.5.5
+  13.01.2019
+- [szene-streamz.com] remove offline site
+- [view4u.co] remove offline site
+- [streamking] add Site
+- [gui] code cleanup
+- [HDfilme] fix
+- [TMovie] fix Serien
+- Homepagelink aktualisiert
+
 xStream 3.5.4
   02.01.2019
 - [SerienStream] Add Popular and code cleanup
